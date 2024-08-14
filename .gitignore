@@ -1,0 +1,4 @@
+node_modules
+.env
+source-project-service-account.json
+target-project-service-account.json
